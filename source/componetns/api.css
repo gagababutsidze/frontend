@@ -1,0 +1,16 @@
+.movie-img{
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+}
+.divApi{
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+}
+.image-div{
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+    padding: 2%;
+}
